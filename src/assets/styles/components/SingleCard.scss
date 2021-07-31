@@ -1,0 +1,19 @@
+.singleCardContainer{
+    display: flex;
+    flex-flow: row wrap;
+    
+    align-items: center;
+    justify-content: center;
+    
+}
+.cardImg {
+    height: 500px;
+}
+.cardDescription{
+    display: flex;
+    flex-flow: column wrap;
+    text-align: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
